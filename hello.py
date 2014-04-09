@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
+	print("simplest logging")
 	return "hello"
 
 if __name__ == "__main__":
