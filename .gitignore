@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+*.log
+*.db
+.Python
+.DS_Store
+include
+lib/
+bin/
+include/
+man
+parts
+var
